@@ -31,7 +31,7 @@ pip install -r requirements.txt
 This project follows the following folder structure:
 
 ```
-my_data_science_project/
+template_data_science_project/
 │
 ├── data/
 │   ├── raw/
@@ -40,9 +40,10 @@ my_data_science_project/
 ├── notebooks/
 │
 ├── src/
-│   ├── preprocessing.py
-│   ├── modeling.py
-│   └── utils.py
+│   ├── classes/
+│     ├── class_example.py
+│   ├── functions/
+│     ├── function_example.py
 │
 ├── models/
 │   ├── linear_regression_model.pkl
