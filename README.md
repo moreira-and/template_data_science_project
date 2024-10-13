@@ -38,6 +38,7 @@ template_data_science_project/
 │   ├── processed/
 │
 ├── notebooks/
+│   ├── notebook_example.ipynb
 │
 ├── src/
 │   ├── classes/
