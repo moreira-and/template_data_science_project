@@ -45,6 +45,7 @@ template_data_science_project/
 │     ├── class_example.py
 │   ├── functions/
 │     ├── function_example.py
+│   ├──create_project_structure.py
 │
 ├── models/
 │   ├── linear_regression_model.pkl
